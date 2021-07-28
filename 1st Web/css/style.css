@@ -1,0 +1,28 @@
+h1 {
+    color: chocolate;
+}
+p {
+    color: red;
+    font-family: Hind Siliguri;
+    text-align: justify;
+}
+#rmar{
+    color: black;
+    font-size: 20px;
+}
+.heading{
+    color: red;
+    font-size: 30px;
+    font-family: Hind Siliguri;
+}
+.tour{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 5px;
+    width: 30%;
+    padding: 10px;
+   float: left;
+}
+h5{
+    text-align: center;
+}
